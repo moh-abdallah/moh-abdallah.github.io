@@ -1,7 +1,9 @@
 # Mohamed Abdallah 
+
 ### [Home](index.md)     [Research](index.md) [Publications](index.md) [Students](index.md) [Teaching](index.md)
+
 # Home
-## Mohamed Abdallah
+
 [Picture of Mohamed Abdallah]
 (/images/Abdallah.jpg)
 
