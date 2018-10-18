@@ -4,7 +4,7 @@
 <img src="/images/Abdallah.jpg" align="left" hspace="30" vspace="4" height="100" width="80"> 
 
 Assistant Professor and Director of Undergraduate Studies <br>
-Division of Information and Computing Techologies <br>
+Division of Information and Computing Technologies <br>
 College of Science Engineering <br>
 [Hamad Bin Khalifa University](https://hbku.edu.qa/), Qatar
 
