@@ -2,9 +2,8 @@
 ---
  
  
- [Home](index.md)     [Research](index.md) [Publications](index.md) [Students](index.md) [Teaching](index.md) 
+<p [Home](index.md)     [Research](index.md) [Publications](index.md) [Students](index.md) [Teaching](index.md) align="center>
  
-
 ---
 
 <img src="/images/Abdallah.jpg" align="left" height="100" width="=60">
@@ -22,4 +21,3 @@ Dr. Mohamed Abdallah received his BSc degree from Cairo University in 1996. He r
 Dr. Abdallah is the recipient of the Research Fellow Excellence Award at Texas A&M University at Qatar in 2016, the best paper award in the IEEE First Workshop on Smart Grid and Renewable Energy in 2015, and the Nortel Networks Industrial Fellowship for five consecutive years, 1999-2003 He has acquired $7M in research funding and published more than 130 journal and conference papers, five book chapters, and  three US patents.
 
 Dr. Abdallah's professional activities include being an associate editor for IEEE Transactions on Communications, a technical program chair of the 10th International Conference on Cognitive Radio Oriented Wireless Networks, and a technical program committee member of several major IEEE conferences. He is a senior member of the IEEE.
-</div>
