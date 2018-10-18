@@ -2,7 +2,6 @@
 
   [Home](index.md) [Research](index.md) [Publications](index.md) [Students](index.md) [Teaching](index.md)
 
-Test
 
 ---
 
