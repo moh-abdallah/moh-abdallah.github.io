@@ -14,7 +14,7 @@ College of Science Engineering <br>
 ---
 **Bio**
 
-Dr. Mohamed Abdallah received his BSc degree from Cairo University in 1996. He received his MSc and Ph. degrees from the University of Maryland at College Park in 2001 and 2006, respectively. From 2006 to 2016, he held academic and research positions at Cairo University and Texas A&M University at Qatar. Currently, he is a founding faculty member with the rank of Assistant Professor in the Information and Computing Technology Division of Hamad Bin Khalifa University.
+Dr. Mohamed Abdallah received his BSc degree from Cairo University in 1996. He received his MSc and Ph. degrees from the University of Maryland at College Park in 2001 and 2006, respectively. From 2006 to 2016, he held academic and research positions at Cairo University and Texas A&M University at Qatar. Currently, he is a founding faculty member with the rank of Assistant Professor in the Information and Computing Technology Division, College of Science and Engineering at Hamad Bin Khalifa University.
  
 Dr. Abdallah's research interests lie in the design of physical layer algorithms and signal processing techniques for novel wireless systems and technologies including cellular heterogeneous network, visible light and free-space optical communication systems, smart grids, powerline communications, cognitive networks, internet of things,reconfigurable smart antenna systems, sensor networks and location determination techniques.
 
