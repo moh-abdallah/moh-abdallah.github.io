@@ -1,6 +1,9 @@
  Mohamed Abdallah 
+ 
  Assistant Professor Division of Information Techologies 
+ 
  College of Science Engineering 
+ 
  Hamad Bin Khalifa University, Qatar
 
  [Home](index.md)     [Research](index.md) [Publications](index.md) [Students](index.md) [Teaching](index.md)
