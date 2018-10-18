@@ -1,8 +1,9 @@
 
-
-<div style="text-align: right"> 
+---
  
- [Home](index.md)     [Research](index.md) [Publications](index.md) [Students](index.md) [Teaching](index.md)  </div>
+ 
+ [Home](index.md)     [Research](index.md) [Publications](index.md) [Students](index.md) [Teaching](index.md) 
+ 
 
 ---
 
