@@ -23,6 +23,8 @@ Dr. Abdallah's research interests lie in the design of physical layer algorithms
 Dr. Abdallah developed a strong record in successfully acquiring and managing research grants. He is the lead/co-lead principal investigator in eight research proposal grants in the total amount of USD 7M. Dr. Abdallah has published more than 120 papers in prestigious journals and international conferences, 5 book chapters, and 3 US patents. Dr. Abdallah is the recipient of the Research Fellow Excellence Award at Texas A&M University at Qatar in 2016, the best paper award in the IEEE First Workshop on Smart Grid and Renewable Energy in 2015, and the Nortel Networks Industrial Fellowship for five consecutive years, 1999-2003. 
 
 Dr. Abdallah's professional activities include being an associate editor for IEEE Transactions on Communications, track co-chair at the 90th IEEE Vehicular Technology Conference (VTC2019-Fall), a technical program chair of the 10th International Conference on Cognitive Radio Oriented Wireless Networks, and a technical program committee member of several major IEEE conferences. He is a senior member of the IEEE.
+
+For more information, please find detailed [CV](Mohamed_Abdallah_Full_CV.pdf)
  
 **Contact Information**
 
