@@ -1,31 +1,9 @@
 Home
 -
 
-<div id="content">
 
-<div id="navcontainer">
-
-<div id="active" class="withChild">Home</div>
-
-<div>[Education](education.html)</div>
-
-<div>[Work Experience](work_experience.html)</div>
-
-<div>[Research](research.html)</div>
-
-<div>[Courses](courses.html)</div>
-
-<div>[Additional info](additional_info.html)</div>
-
-<div>[Contact info](contact_info.html)</div>
-
-</div>
-
- [Home](/index.md)  [Research](/Research.md) 
-* [Publications](/Publications.md) 
-* [Research Team](/Team.md) 
-* [Teaching](/Teaching.md) 
-* [Professional Activities](/Activities.md)
+ [Home](/index.md) | [Research](/Research.md) | [Publications](/Publications.md) | [Research Team](/Team.md) 
+| [Teaching](/Teaching.md) | [Professional Activities](/Activities.md)
 
 
 
