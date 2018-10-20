@@ -2,7 +2,7 @@ Home
 -
 
 
-[Home](/index.md) [Research](/index.md) [Publications](/index.md) [Students](/index.md) [Teaching](/index.md)
+[Home](/index.md) [Research](/Research.md) [Publications](/Publications.md) [Research Team](/Team.md) [Teaching](/Teaching.md) [Professional Activities](/Activities.md)
 
 
 
