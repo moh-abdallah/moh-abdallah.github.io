@@ -1,6 +1,6 @@
 Home
 -
-<head>
+
 <style>
 ul {
     list-style-type: none;
@@ -30,8 +30,7 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }
 </style>
-</head>
-<body>
+
 
 <ul>
   <li><a href="index.md">Home</a></li>
