@@ -1,11 +1,27 @@
 Home
 -
 
+<div id="content">
 
+<div id="navcontainer">
 
+<div id="active" class="withChild">Home</div>
 
-* [Home](/index.md) 
-* [Research](/Research.md) 
+<div>[Education](education.html)</div>
+
+<div>[Work Experience](work_experience.html)</div>
+
+<div>[Research](research.html)</div>
+
+<div>[Courses](courses.html)</div>
+
+<div>[Additional info](additional_info.html)</div>
+
+<div>[Contact info](contact_info.html)</div>
+
+</div>
+
+ [Home](/index.md)  [Research](/Research.md) 
 * [Publications](/Publications.md) 
 * [Research Team](/Team.md) 
 * [Teaching](/Teaching.md) 
@@ -32,6 +48,8 @@ Dr. Abdallah developed a strong record in successfully acquiring and managing re
 Dr. Abdallah's professional activities include being an associate editor for IEEE Transactions on Communications, track co-chair at the 90th IEEE Vehicular Technology Conference (VTC2019-Fall), a technical program chair of the 10th International Conference on Cognitive Radio Oriented Wireless Networks, and a technical program committee member of several major IEEE conferences. He is a senior member of the IEEE.
 
 For more information, here is my **[ detailed CV](Mohamed_Abdallah_Full_CV.pdf)**.
+
+---
  
 **Contact Information**
 
