@@ -1,14 +1,11 @@
 Home
 -
 
-<ul>
-  <li><a href="index.md">Home</a></li>
-  <li><a href="Publications.md">News</a></li>
-  <li><a href="Team.md">Contact</a></li>
-  <li><a href="Teaching.md">About</a></li>
-</ul>
 
-[Home](/index.md) [Research](/Research.md) [Publications](/Publications.md) [Research Team](/Team.md) [Teaching](/Teaching.md) [Professional Activities](/Activities.md)
+
+
+- [Home](/index.md) 
+- [Research](/Research.md) [Publications](/Publications.md) [Research Team](/Team.md) [Teaching](/Teaching.md) [Professional Activities](/Activities.md)
 
 
 
