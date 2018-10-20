@@ -1,29 +1,8 @@
 Home
 -
-
-<html>
-<head>
-<style>
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+li {
+    display: inline;
 }
-</style>
-</head>
-<body>
-
-<p>In this example, we remove the bullets from the list, and its default padding and margin.</p>
-
-<ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
-
-</body>
-</html>
 
 <ul>
   <li><a href="index.md">Home</a></li>
