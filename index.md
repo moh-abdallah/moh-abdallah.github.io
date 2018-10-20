@@ -1,8 +1,5 @@
 Home
 -
-li {
-    display: inline;
-}
 
 <ul>
   <li><a href="index.md">Home</a></li>
