@@ -8,6 +8,9 @@ Division of Information and Computing Technology <br>
 College of Science and Engineering <br>
 [Hamad Bin Khalifa University](https://hbku.edu.qa/)
 
+[Google Scholar](https://scholar.google.com/citations?user=ZTeABTwAAAAJ&hl=en)<br>
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3261-7588" href="https://orcid.org/0000-0002-3261-7588" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-3261-7588</a></div>
+
 ---
 **Bio**
 
