@@ -1,8 +1,8 @@
 Publications
-===========
+-
 
-Books Chapters
---
+**Books Chapters**
+
 
 1.  Ahmed Sherif, Ahmad Alsharif, Mohamed M E A Mahmoud, and Mohamed M.
     Abdallah, \"Priority-based and Privacy-preserving Electric Vehicle
@@ -30,8 +30,7 @@ Books Chapters
     *MIMO Systems, Theory and Applications*, InTech Open Access
     Publisher.
 
-Patents
----
+**Patents**
 
 1.  Hassan Mohamed El-Sallabi, Mohamed Abdallah, Khalid Ali Qaraqe,
     Gregory H. Huff, and Jean-Francois Chamberland, \"Geo-security
@@ -49,8 +48,8 @@ Patents
     selection for code division multiple access (CDMA) networks,\" U.S.
     Patent 8,737,362, issued May 27, 2014.
 
-Journals
-----
+**Journals**
+
 
 1.  Salah Hessien, Sezer Can Tokgoz, Noha Anous, Ali Boyacı, Mohamed
     Abdallah, and Khalid Qaraqe, \"Experimental Evaluation of OFDM based
@@ -252,8 +251,7 @@ Journals
     *European Transactions on Telecommunications*, vol. 11, pp. 327-343,
     July/August 2000.
 
-Conferences
----
+**Conferences**
 
 1.  J. Al-khori, G. Nauryzbayev, M. Abdallah and M. Hamdi, \"Secrecy
     Capacity of Hybrid RF/VLC DF Relaying Networks with Jamming,\"
