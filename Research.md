@@ -14,9 +14,9 @@ Research
 **Research Grants**
 
 
-1.  Relay-assisted Visible Light Communication Systems, Technology
+1.  Relay-assisted Visible Light Communication Systems, funded by Technology
     Development Fund (TDF) funded by Qatar National Research Fund.
-
+    
     Mohamed Abdallah (Lead PI), Collaborators: Murat Uysal, Khalid
     Qaraqe, Ali Gorcin.
 
@@ -28,7 +28,9 @@ Research
     
     Mohamed Abdallah (PI), Collaborators: Khalid Qaraqe, Khaled B.
     Letaif, Mohamed-Slim Alouini, Zouheir Rezki, Ahmed Salah, and
-    Mohamed Khairy. Amount: US\$ 720K (2016-2019).
+    Mohamed Khairy. 
+    
+    Amount: US\$ 720K (2016-2019).
 
 3.  Visible Light Communication for Underwater Sensor Networks,
     funded by Qatar National Research Fund.
