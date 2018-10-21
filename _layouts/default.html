@@ -20,6 +20,16 @@
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          
+          <ul>
+  <li><a href="index.md">Home</a></li>
+  <li><a href="index.md">News</a></li>
+  <li><a href="index.md">Contact</a></li>
+  <li><a href="index.md">About</a></li>
+</ul>
+          li {
+    display: inline;
+}
 
           {% if site.show_downloads %}
             <section id="downloads">
