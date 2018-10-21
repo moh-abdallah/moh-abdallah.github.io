@@ -6,7 +6,7 @@ About
 Assistant Professor and Director of Undergraduate Studies <br>
 Division of Information and Computing Technology <br>
 College of Science and Engineering <br>
-[Hamad Bin Khalifa University](https://hbku.edu.qa/), Qatar
+[Hamad Bin Khalifa University](https://hbku.edu.qa/)
 
 ---
 **Bio**
