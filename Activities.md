@@ -29,7 +29,7 @@ Professional Activities
 -   IEEE Wireless Communications and Networking Conference (WCNC),
         Physical layer track, Marrakech, Morocco, April 2019.
         
-    -   IEEE Global Communications Conference (Globecom), Wireless
+  -   IEEE Global Communications Conference (Globecom), Wireless
         Communication, Abu Dhabi, UAE, Dec. 2018.
 
    -   IEEE Global Communications Conference (Globecom), Wireless
