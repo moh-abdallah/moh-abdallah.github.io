@@ -10,7 +10,7 @@ Home
 
 Assistant Professor and Director of Undergraduate Studies <br>
 Division of Information and Computing Technology <br>
-College of Science Engineering <br>
+College of Science and Engineering <br>
 [Hamad Bin Khalifa University](https://hbku.edu.qa/), Qatar
 
 ---
