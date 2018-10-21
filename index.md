@@ -1,11 +1,6 @@
 Home
 -
 
-
- [Home](/index.md) \| [Research](/Research.md) \| [Publications](/Publications.md) \| [Research Team](/Team.md) \| [Teaching](/Teaching.md) \| [Professional Activities](/Activities.md)
-
-
-
 <img src="/images/Abdallah.jpg" hspace="30" vspace="4" height="150" width="100"> 
 
 Assistant Professor and Director of Undergraduate Studies <br>
