@@ -1,4 +1,4 @@
-Publications
+Publications ([Google Scholar](https://scholar.google.com/citations?user=ZTeABTwAAAAJ&hl=en)<br>)
 -
 
 **Books Chapters**
