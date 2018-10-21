@@ -3,11 +3,11 @@ Research
 
 **Research Interests**
 
-1. 5G Wireless Communications Networks.
-3. Wireless Networks Security
-4. Visible Light Communications
+1. 5G Networks.
+3. Wireless Networks Security.
+4. Visible Light Communications.
 5. Smart Grid Communication Networks.
-6. Electric Vehicle Charging Systems
+6. Electric Vehicle Charging Systems.
 7. Internet of things. 
 
 
