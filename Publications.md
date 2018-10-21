@@ -1,5 +1,7 @@
-Publications - [Google Scholar](https://scholar.google.com/citations?user=ZTeABTwAAAAJ&hl=en)
+Publications  
 -
+*[(My Google Scholar Profile)](https://scholar.google.com/citations?user=ZTeABTwAAAAJ&hl=en)* 
+
 **Books Chapters**
 
 
