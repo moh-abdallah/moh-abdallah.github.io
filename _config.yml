@@ -1,7 +1,6 @@
 title: Mohamed Abdallah
 email: moabdallah@hbku.edu.qa
-description: > # this means to ignore newlines until "baseurl:"
-  Academic Website
+description: Academic Website
 
 theme: jekyll-theme-slate
 
