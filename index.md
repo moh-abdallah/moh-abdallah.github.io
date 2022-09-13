@@ -1,7 +1,7 @@
 About
 -
 
-<img src="/images/Abdallah.jpg" hspace="30" vspace="4" height="150" width="100"> 
+<img src="/images/Abdallah_new.jpg" hspace="30" vspace="4" height="150" width="100"> 
 
 Associate Professor and Director of Undergraduate Studies <br>
 Division of Information and Computing Technology <br>
