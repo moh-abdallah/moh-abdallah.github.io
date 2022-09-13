@@ -26,7 +26,7 @@ Dr. Abdallah developed a strong record in successfully acquiring and managing re
 
 Dr. Abdallah's professional activities include being an associate editor for IEEE Transactions on Communications, track co-chair at the 90th IEEE Vehicular Technology Conference (VTC2019-Fall), a technical program chair of the 10th International Conference on Cognitive Radio Oriented Wireless Networks, and a technical program committee member of several major IEEE conferences. He is a senior member of the IEEE.
 
-For more information, here is my **[Complete CV.](Mohamed_Abdallah_Full_CV.pdf)** <br>
+For more information, here is my **[Complete CV.](Mohamed_Abdallah_CV_August_2022-4.pdf)** <br>
 *Updated (1-Sept-2022)*.
  
  
